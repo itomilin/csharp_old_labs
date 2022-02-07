@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\bin\Debug\Lab11.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\bin\Debug\Lab11.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\bin\Debug\Lab11.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\obj\Debug\Lab11.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\obj\Debug\Lab11.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\obj\Debug\Lab11.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab11\Lab11\obj\Debug\Lab11.csprojAssemblyReference.cache

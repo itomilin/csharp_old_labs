@@ -1,0 +1,14 @@
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab5\Lab5\obj\Debug\Lab5.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\bin\Debug\Lab5.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\bin\Debug\Lab5.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\obj\Debug\Lab5.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab6\Lab5\obj\Debug\Lab5.pdb

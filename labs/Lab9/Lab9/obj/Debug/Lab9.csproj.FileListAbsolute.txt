@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab9\Lab9\obj\Debug\Lab9.pdb

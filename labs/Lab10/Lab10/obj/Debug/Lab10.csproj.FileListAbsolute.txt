@@ -1,0 +1,7 @@
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\bin\Debug\Lab10.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\bin\Debug\Lab10.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\obj\Debug\Lab10.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab10\Lab10\obj\Debug\Lab10.pdb

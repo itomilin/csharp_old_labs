@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\bin\Debug\Lab14.exe.config
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\bin\Debug\Lab14.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\bin\Debug\Lab14.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\obj\Debug\Lab14.exe
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\obj\Debug\Lab14.pdb
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\andrey_yakovlevich\Lab14\Lab14\obj\Debug\Lab14.csproj.CopyComplete

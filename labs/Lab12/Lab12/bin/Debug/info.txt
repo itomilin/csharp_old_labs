@@ -1,0 +1,29 @@
+Lab5.Date
+Int32 get_Hour()
+Void set_Hour(Int32)
+Int32 get_Minute()
+Void set_Minute(Int32)
+Int32 get_Day()
+Void set_Day(Int32)
+Int32 get_Year()
+Void set_Year(Int32)
+System.String get_Month()
+Void set_Month(System.String)
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+System.String ToString()
+Void PrintDate()
+Void Finalize()
+System.Type GetType()
+System.Object MemberwiseClone()
+Void .ctor(Int32, Int32, Int32, Int32, System.String)
+Int32 Hour
+Int32 Minute
+Int32 Day
+Int32 Year
+System.String Month
+Int32 <Hour>k__BackingField
+Int32 <Minute>k__BackingField
+Int32 <Day>k__BackingField
+Int32 <Year>k__BackingField
+System.String <Month>k__BackingField
